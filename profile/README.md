@@ -32,10 +32,8 @@ After the growth of real-world use across academia and industry, we’re *reimag
 ## 🚀 How to Start & Join 
 
 *  **Try it now**: star your journey from the [portal repo](https://github.com/datajuicer/data-juicer).
-*  **Contributing:** We love contributions! Please read our [contributing guide](https://github.com/datajuicer/data-juicer/blob/main/CONTRIBUTING.md) to get started.
-*  **Acknowledgements:**  Data-Juicer is built by a growing community of contributors. We are grateful for every contribution, from code and documentation to bug reports and ideas. A full list of our amazing contributors (such as Alibaba PAI, NVIDIA, Ray, ...) can be found in our [acknowledgement](https://github.com/datajuicer/data-juicer#acknowledgements).
-
-⭐ **Star this org and its repos** to show your support and help us grow!
+*  **Contributing & Acknowledgements:** We love contributions! We are grateful for every feedback, from code and doc to bug reports and ideas. You can refer the list of our amazing contributors (such as those from Alibaba PAI, ModelScope, NVIDIA, Ray, ...) and [join us](https://github.com/datajuicer/data-juicer#acknowledgements).
+* ⭐ **Star this org and its repos** to show your support and help us grow!
 
 
 > Built with ❤️ by the Data-Juicer Team, the community and **you**.  
